@@ -1,0 +1,18 @@
+.a {
+    background-image: url(abc.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+}
+h1{
+    text-decoration:underline;
+}
+p{
+    font-size: x-large;
+    font-weight: 500;
+    text-indent: 3%;
+}
+img{
+    margin-left: 10%;
+}
